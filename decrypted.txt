@@ -1,0 +1,15 @@
+
+Very nice. You've decrypted the file.    
+     
+Meshcapital is looking for solid programmers interested in high frequency trading.
+   
+If you'd like to work with us, send your resume and your solution to this problem to:                                
+jobs+N@meshcapital.com
+
+where N is whichever one of {a,b,c} from from part 1 which you did not use in part 2.
+
+( For example, if {a,b,c} were {6, 9, 25}, and you used w=9 and v=25, then send your resume to jobs+6@meshcapital.com. )                         
+
+
+
+
